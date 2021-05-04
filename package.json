@@ -45,6 +45,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0",
+    "tesseract.js": "^2.1.4",
     "vue": "^2.6.11"
   }
 }
